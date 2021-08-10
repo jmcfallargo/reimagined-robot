@@ -82,3 +82,29 @@ INFO : 2021/07/28 13:28:02.467070 main.go:28: I'm about to do something!
 ERROR: 2021/07/28 13:28:02.467830 main.go:29: Error running doSomething: some error
 INFO : 2021/08/10 10:09:21.410041 main.go:27: I'm about to do something!
 ERROR: 2021/08/10 10:09:21.411366 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 10:29:46.411936 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 10:29:46.412530 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 10:29:58.473339 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 10:29:58.473633 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 10:30:21.568241 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 10:30:21.568516 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 10:30:45.478006 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 10:30:45.478882 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 10:31:03.818959 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 10:31:03.819187 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 11:21:09.780551 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 11:21:09.781495 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 11:28:20.437074 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 11:28:20.438109 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 11:35:53.753725 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 11:35:53.755209 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 11:36:58.549128 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 11:36:58.549579 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 11:37:16.173339 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 11:37:16.173651 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 12:14:53.342546 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 12:14:53.344072 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 12:15:20.089945 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 12:15:20.090272 main.go:28: Error running doSomething: some error
+INFO : 2021/08/10 12:15:27.325303 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 12:15:27.325683 main.go:28: Error running doSomething: some error
