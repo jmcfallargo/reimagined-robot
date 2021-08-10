@@ -1,0 +1,84 @@
+INFO : 2021/07/27 14:36:20.003712 main.go:28: push
+INFO : 2021/07/27 14:36:20.003956 main.go:28: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 14:36:20.003991 main.go:28: --no-verify
+INFO : 2021/07/27 14:36:20.004011 main.go:28: --dry-run
+INFO : 2021/07/27 14:36:34.242340 main.go:35: I'm about to do something!
+ERROR: 2021/07/27 14:36:35.708995 main.go:36: Error running doSomething: some error
+INFO : 2021/07/27 14:38:04.241789 main.go:28: push
+INFO : 2021/07/27 14:38:04.242423 main.go:28: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 14:38:04.242472 main.go:28: --no-verify
+INFO : 2021/07/27 14:38:04.242515 main.go:28: --dry-run
+INFO : 2021/07/27 14:38:17.289110 main.go:35: I'm about to do something!
+ERROR: 2021/07/27 14:38:17.289924 main.go:36: Error running doSomething: some error
+INFO : 2021/07/27 14:40:14.987650 main.go:28: push
+INFO : 2021/07/27 14:40:14.988292 main.go:28: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 14:40:14.988323 main.go:28: --no-verify
+INFO : 2021/07/27 14:40:14.988342 main.go:28: --dry-run
+INFO : 2021/07/27 14:41:18.359478 main.go:35: I'm about to do something!
+ERROR: 2021/07/27 14:41:18.360308 main.go:36: Error running doSomething: some error
+INFO : 2021/07/27 14:42:34.903050 main.go:28: push
+INFO : 2021/07/27 14:42:34.903736 main.go:28: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 14:42:34.903791 main.go:28: --no-verify
+INFO : 2021/07/27 14:42:34.903819 main.go:28: --dry-run
+INFO : 2021/07/27 14:49:11.670479 main.go:27: push
+INFO : 2021/07/27 14:49:11.671106 main.go:27: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 14:49:11.671163 main.go:27: --no-verify
+INFO : 2021/07/27 14:49:11.671190 main.go:27: --dry-run
+INFO : 2021/07/27 15:59:49.987590 main.go:27: push
+INFO : 2021/07/27 15:59:49.987824 main.go:27: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 15:59:49.987856 main.go:27: --no-verify
+INFO : 2021/07/27 15:59:49.987876 main.go:27: --dry-run
+INFO : 2021/07/27 16:01:26.204629 main.go:27: push
+INFO : 2021/07/27 16:01:26.205215 main.go:27: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 16:01:26.205274 main.go:27: --no-verify
+INFO : 2021/07/27 16:01:26.205307 main.go:27: --dry-run
+INFO : 2021/07/27 16:02:05.920096 main.go:27: push
+INFO : 2021/07/27 16:02:05.920443 main.go:27: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 16:02:05.920491 main.go:27: --no-verify
+INFO : 2021/07/27 16:02:05.920521 main.go:27: --dry-run
+INFO : 2021/07/27 16:02:48.423849 main.go:27: push
+INFO : 2021/07/27 16:02:48.424348 main.go:27: ssh://git@bitbucket.argoai.net:7999/~jmcfall_argo.ai/snippets.git
+INFO : 2021/07/27 16:02:48.424385 main.go:27: --no-verify
+INFO : 2021/07/27 16:02:48.424405 main.go:27: --dry-run
+INFO : 2021/07/27 16:02:55.031016 main.go:33: I'm about to do something!
+ERROR: 2021/07/27 16:02:55.031121 main.go:34: Error running doSomething: some error
+INFO : 2021/07/27 16:04:37.784864 main.go:27: --version
+INFO : 2021/07/27 16:04:45.316296 main.go:33: I'm about to do something!
+ERROR: 2021/07/27 16:04:45.316373 main.go:34: Error running doSomething: some error
+INFO : 2021/07/27 16:05:37.781604 main.go:27: --version
+INFO : 2021/07/27 16:05:43.796307 main.go:33: I'm about to do something!
+ERROR: 2021/07/27 16:05:43.796403 main.go:34: Error running doSomething: some error
+INFO : 2021/07/27 16:06:37.287542 main.go:27: --version
+INFO : 2021/07/27 16:06:50.963680 main.go:33: I'm about to do something!
+ERROR: 2021/07/27 16:06:50.963773 main.go:34: Error running doSomething: some error
+INFO : 2021/07/27 16:08:41.553354 main.go:27: --version
+INFO : 2021/07/27 16:09:09.719817 main.go:33: I'm about to do something!
+ERROR: 2021/07/27 16:09:09.720661 main.go:34: Error running doSomething: some error
+INFO : 2021/07/27 16:10:49.722463 main.go:27: --version
+INFO : 2021/07/27 16:12:51.915803 main.go:27: --version
+INFO : 2021/07/27 16:12:57.085667 main.go:33: I'm about to do something!
+ERROR: 2021/07/27 16:12:57.694445 main.go:34: Error running doSomething: some error
+INFO : 2021/07/27 18:07:01.039549 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:07:02.780251 main.go:29: Error running doSomething: some error
+INFO : 2021/07/27 18:08:20.021691 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:08:20.023161 main.go:29: Error running doSomething: some error
+INFO : 2021/07/27 18:09:41.559132 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:09:41.560204 main.go:29: Error running doSomething: some error
+INFO : 2021/07/27 18:17:49.592939 main.go:27: 
+INFO : 2021/07/27 18:17:49.593368 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:17:49.593417 main.go:29: Error running doSomething: some error
+INFO : 2021/07/27 18:18:28.879706 main.go:27: 
+INFO : 2021/07/27 18:18:28.880076 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:18:28.880116 main.go:29: Error running doSomething: some error
+INFO : 2021/07/27 18:19:11.496276 main.go:27: git version 2.24.3 (Apple Git-128)
+INFO : 2021/07/27 18:19:11.496605 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:19:11.496644 main.go:29: Error running doSomething: some error
+INFO : 2021/07/27 18:20:33.988863 main.go:27: 
+INFO : 2021/07/27 18:20:33.989234 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:20:33.989290 main.go:29: Error running doSomething: some error
+INFO : 2021/07/27 18:21:57.045693 main.go:28: I'm about to do something!
+ERROR: 2021/07/27 18:21:58.846591 main.go:29: Error running doSomething: some error
+INFO : 2021/07/28 13:28:02.467070 main.go:28: I'm about to do something!
+ERROR: 2021/07/28 13:28:02.467830 main.go:29: Error running doSomething: some error
+INFO : 2021/08/10 10:09:21.410041 main.go:27: I'm about to do something!
+ERROR: 2021/08/10 10:09:21.411366 main.go:28: Error running doSomething: some error
