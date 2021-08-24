@@ -1,2 +1,2 @@
 # reimagined-robot
-this is a test repo for some local tools testing
+This is a test repo for some local tools testing
